@@ -12,11 +12,11 @@ This project applies **K-Means Clustering** to perform **customer segmentation**
 **Dataset Used**: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/vjchoudhary7/customer-segmentation)
 
 Features included:
-- `CustomerID`
-- `Gender`
-- `Age`
-- `Annual Income (k$)`
-- `Spending Score (1-100)`
+- CustomerID
+- Gender
+- Age
+- Annual Income (k$)
+- Spending Score (1-100)
 
 ---
 
@@ -25,7 +25,7 @@ Features included:
 - **Python**
 - **Jupyter Notebook**
 - **Libraries**:  
-  `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+  pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ---
 
